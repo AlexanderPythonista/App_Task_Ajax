@@ -6,7 +6,7 @@
 $conn = mysqli_connect(
     'localhost',
     'root',
-    '@R00t=2022',
+    '',
     'todo_app'
 );
 
